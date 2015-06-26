@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
 	<groupId>org.lucee</groupId>
 	<artifactId>commons-collections</artifactId>
-	<version>3.2.1</version><!-- version need to follow this pattern <number>.<number>.<number>.<string> -->
+	<version>3.2.2-SNAPSHOT</version><!-- version need to follow this pattern <number>.<number>.<number>.<string> -->
   <name>Apache Commons Collections</name>
   <packaging>bundle</packaging>
 
@@ -111,7 +111,7 @@
     <url>https://github.com/lucee/osgi-bundle-commons-collections</url>
     <connection>scm:git:git://github.com/lucee/osgi-bundle-commons-collections.git</connection>
     <developerConnection>scm:git:git@github.com:lucee/osgi-bundle-commons-collections.git</developerConnection>
-    <tag>commons-collections-3.2.1</tag>
+    <tag>Apache Commons Collections OSGi library</tag>
   </scm>
 
   <distributionManagement>
